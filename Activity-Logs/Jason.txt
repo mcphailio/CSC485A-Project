@@ -11,3 +11,12 @@ October 16: (1 hour)
     
 October 25: (1.5 hour)
     Met with Adnan and prepared preliminary suvery questionnaire
+    
+October 31: (2 hours)
+    Reformatted and created final survey
+    
+November 1: (1.5 hour)
+    Group meeting to discuss project breakdown, presentation prep and dividing roles for software comparison
+    
+November 2: (2.5 hours)
+    Software comparison between DropBox and SharePoint based on team-agreed upon dimensions
