@@ -20,3 +20,12 @@ November 1: (1.5 hour)
     
 November 2: (2.5 hours)
     Software comparison between DropBox and SharePoint based on team-agreed upon dimensions
+    
+November 5: (2 hours)
+    Analyzed survey results and brainstormed ideas for proposal
+
+November 10: (1.5 hours)
+    Fleshed out software comparison between DropBox and SharePoint
+    
+November 13: (4.5 hours)
+    Formatted proposal report, finished SharePoint comparison section, created survey results section, worked on related         works section and contributed to GitHub comparison
