@@ -29,3 +29,6 @@ November 10: (1.5 hours)
     
 November 13: (4.5 hours)
     Formatted proposal report, finished SharePoint comparison section, created survey results section, worked on related         works section and contributed to GitHub comparison
+    
+November 19: (1 hour)
+    Group meeting and meeting with professor Storey regarding overall direction of the project
