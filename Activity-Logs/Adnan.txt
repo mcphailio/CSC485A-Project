@@ -31,4 +31,22 @@ Thursday November 12: about (4 hrs)
 
 Friday November 13: (4 hrs)
 	Worked on Progress Report, Related Works, Software Comparison(Google drive), Survey Result and citing references.
+	
+November 19: (1.5 hrs)
+    Group meeting and meeting with professor Storey regarding overall direction of the project
+
+Saturday November 28: about (4 hrs)
+	Worked on: 
+		mock Up folder(list of changes to implement)
+		Contributed some User testing Questions
+		Create some scenarios.
+
+Sunday November 29: (3 hrs)
+	Group meeting:Worked on and redesign Mockup.
+
+Monday November 30: (3 hrs)
+	Worked on User testing of Dropbox 2.0 Prototype.
+
+Monday November 30: (2 hrs)
+	Group meeting:Worked on Final Report overall.
    
