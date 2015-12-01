@@ -44,9 +44,12 @@ Saturday November 28: about (4 hrs)
 Sunday November 29: (3 hrs)
 	Group meeting:Worked on and redesign Mockup.
 
-Monday November 30: (3 hrs)
-	Worked on User testing of Dropbox 2.0 Prototype.
-
 Monday November 30: (2 hrs)
 	Group meeting:Worked on Final Report overall.
+	
+Monday November 30: (3.5 hrs)
+	Worked on: 
+		User testing of Dropbox 2.0 Prototype.
+		Table of Contents
+		Task#1 Scenario
    
