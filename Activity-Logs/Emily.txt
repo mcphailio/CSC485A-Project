@@ -41,3 +41,38 @@ Friday November 20, 2015:
   Tasks: Met with group and Dr. Storey
   Specifics: Took notes about changes that need to be made to our study
   Time Began: 14:00..Ended 15:00. Total time = 1 hour
+
+Sunday November 22, 2015:
+  Tasks: Group Meeting
+  Specifics: Discussed tasks for final presentation and paper
+  Time Began: 18:00..Ended 19:00. Total time = 1 hour
+  
+Tuesday November 24, 2015:
+  Tasks: Working on related works
+  Specifics: Finding and summarizing papers to build up the related works
+  Time Began: 18.00..Ended 21:00. Total time = 3 hours
+  
+Sunday November 29, 2015:
+  Tasks: Group Meeting
+  Specifics: Drew out a prototype for Dropbox 2.0
+  Time Began: 18:30..Ended 20:30. Total time = 2 hours
+
+Monday November 30, 2015:
+  Tasks: Designing prototype, Group Meeting & Related works
+  Specifics: Used Photoshop & Evolvus Pencil to prototype Dropbox 2.0
+  Time Began: 11:30..Ended 14:30. Total time = 3 hours
+  Time Began: 14:30..Ended 15:30. Total time = 1 hour
+  Time Began: 17:30..Ended 22:30. Total time = 5 hours
+
+Tuesday December 1, 2015:
+  Tasks: Prototype, User testing, Group meeting & Final slides
+  Specifics: Evolvus Pencil to prototype & Invision to link. Developed tasks scenarios for cognitive walkthrough. Made slides about                 Olsen&Olsen
+  Time Began: 12:30..Ended 16:30. Total time = 4 hours
+  Time Began: 16:30..Ended 17:30. Total time = 2 hours
+  Time Began: 19:00..Ended 23:00. Total time = 4 hours
+  
+Wednesday December 2, 2015:
+  Tasks: Group Meeting & Presentation
+  Specifics: Went over slides and helped plan the demo of Dropbox 2.0
+  Time Began: 12:30..Ended 13:30. Total time = 1 hour
+  
