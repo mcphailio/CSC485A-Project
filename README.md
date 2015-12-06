@@ -1,7 +1,7 @@
 # CSC485A-Project
-UVic CSC485A group term project
+##UVic CSC485A group term project
 
-Group Members
+####Group Members
 ###### Brenda McPhail      V00620281 bmcphail@uvic.ca
 ###### Meric Demiriz       V00651975 mdemiriz@uvic.ca
 ###### Emily Pereira       V00728841 empereira2010@gmail.com
